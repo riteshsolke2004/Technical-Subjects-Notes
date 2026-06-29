@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The `this` keyword is a special pointer available in every non-static member function of a class. It points to the **current object** that invokes the member function.
+The `this` keyword is a special pointer available in every non-static member function of a class. It points to the **current object** that invokes the member function. 
 
 Whenever a member function is called using an object, the compiler automatically passes the address of that object using the `this` pointer.
 
