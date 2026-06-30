@@ -12,7 +12,7 @@
 * UML Representation
 * Ownership
 * Memory Representation
-* C++ Implementation
+* C++ Implementation 
 * Lifetime of Objects
 * Multiplicity
 * Aggregation in Low-Level Design (LLD)
