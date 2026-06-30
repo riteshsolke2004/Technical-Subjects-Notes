@@ -8,7 +8,7 @@
 * **Morph** = Forms
 
 It means **"One Interface, Many Forms."**
-
+ 
 Polymorphism allows the same function, method, or operator to perform different tasks depending on the object or the arguments provided.
 
 ---
